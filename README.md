@@ -12,7 +12,5 @@ branching, merging and collaboration using GitHub.
 
 
 
-Feature branch: feature1
-
-Created by: Lekhya
+Created by: Lekhya159
 
