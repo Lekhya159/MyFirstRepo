@@ -1,16 +1,14 @@
-\# MyFirstRepo
+\## Feature 1
 
 
 
-This is my first Git and GitHub lab exercise.
+This section demonstrates Git branching and merging.
 
 
 
-I am learning Git commands, version control,
-
-branching, merging and collaboration using GitHub.
+Feature1 branch is created to practice parallel development.
 
 
 
-Created by: Lekhya159
+Changes made in feature1 branch will be merged into main branch.
 
